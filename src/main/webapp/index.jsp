@@ -9,7 +9,7 @@
     <!-- ------------------ Favicon ------------------ -->
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
-    <!-- ------------------ Title ------------------ -->
+    <!-- ------------------ title ------------------ -->
     <title>Disney+ Hotstar - Watch TV Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
