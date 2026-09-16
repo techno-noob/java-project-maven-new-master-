@@ -12,7 +12,7 @@
     <!-- ------------------ title ------------------ -->
     <title>Disney+ Hotstar - Watch TV Shows Online</title>
 
-    <!-- ------------------ Style Sheet ------------------ -->
+    <!-- ------------------ Style sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
