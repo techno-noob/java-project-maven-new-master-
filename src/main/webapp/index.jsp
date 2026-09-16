@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <!-- ------------------ Navbar ------------------ -->
+    <!-- ------------------ NavBar ------------------ -->
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
